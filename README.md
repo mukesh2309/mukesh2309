@@ -35,7 +35,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mukesh2309.github.io/portfolio"><img alt="Website" src="https://img.shields.io/badge/portfolio-purple?style=flat-square&logo=google-chrome"></a>
+<a href="https://mukesh2309.github.io/mukesh" target = "_blank"><img alt="Website" src="https://img.shields.io/badge/portfolio-purple?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mukesh-shelke"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mukesh%20shelke-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
