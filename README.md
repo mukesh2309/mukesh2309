@@ -66,12 +66,6 @@ Software Engineer • React Native Specialist • Android & iOS • SaaS Builder
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<a href="https://github.com/mukesh2309">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukesh2309&theme=buefy&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh2309&theme=buefy&layout=compact&hide_border=true" />
-</a>
 
 ---
 
